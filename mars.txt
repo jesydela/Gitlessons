@@ -3,3 +3,6 @@ Cold and dry, but everything is my favorite color. The two moons may be a proble
 Batman killed supperman
 But spider man likes superman.
 
+Exercise
+Add some text to mars.txt noting your decision to consider Venus as a base
+
